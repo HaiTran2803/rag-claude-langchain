@@ -1,0 +1,1 @@
+from app.ingestion.document_pipeline import build_documents_from_pdf
